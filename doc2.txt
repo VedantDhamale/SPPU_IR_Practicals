@@ -1,0 +1,7 @@
+Resources
+
+Resources are any finite entities that are required to perform tasks. They can be physical resources, such as tools, equipment, and materials, or intangible resources, such as time, money, and expertise. Resources are often shared by multiple tasks, and their availability can influence the scheduling of tasks.
+
+Temporal Constraints
+
+Temporal constraints are limitations on the timing of events. They can specify the order in which events must occur, the duration of events, or the time intervals within which events must occur. Temporal constraints are often used in scheduling to ensure that tasks are completed in a timely manner and that resources are used efficiently.
