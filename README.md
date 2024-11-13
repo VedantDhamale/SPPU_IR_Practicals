@@ -8,14 +8,11 @@ The goal of these practicals is to implement key **Information Retrieval** algor
 
 ## Practical List
 
-1. **Inverted Index Construction**: Implement an inverted index for efficient text search.
-2. **Vector Space Model**: Use cosine similarity to calculate the similarity between documents.
-3. **TF-IDF Calculation**: Compute Term Frequency-Inverse Document Frequency for given documents.
-4. **PageRank Algorithm**: Simulate Google’s PageRank algorithm to rank web pages based on hyperlinks.
-5. **Boolean Retrieval Model**: Develop a Boolean retrieval system to support AND, OR, NOT operations.
-6. **Evaluation Metrics**: Implement precision, recall, F1-score, and other metrics for evaluating retrieval performance.
-7. **Latent Semantic Indexing (LSI)**: Reduce dimensions in a document-term matrix using Singular Value Decomposition (SVD).
-8. **Probabilistic IR Model**: Implement a probabilistic retrieval model for ranking documents based on probability.
+1. **Inverted Index Construction**
+2. **PageRank Algorithm**
+3. **Email Spam Ham**
+4. **Web Crawler**
+5. **Text Preprocessing** 
 
 ## Getting Started
 
