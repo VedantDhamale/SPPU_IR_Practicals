@@ -25,7 +25,6 @@ These practicals are written in **Python**. Clone this repository and follow the
 - Pandas
 - Scikit-Learn
 - NLTK (Natural Language Toolkit)
-- SciPy (for SVD in LSI)
 
 ```bash
 pip install numpy pandas scikit-learn nltk scipy
